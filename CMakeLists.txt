@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.30.5)
 project(flappy_sanyok)
-include_directories("/opt/homebrew/include")
-link_directories("/opt/homebrew/lib")
+include_directories("../SFML-3.0.0/include")
+link_directories("../SFML-3.0.0/lib")
 find_package(SFML 2.6.2 COMPONENTS graphics window system audio REQUIRED)
 
 set(CMAKE_CXX_STANDARD 20)

@@ -52,105 +52,105 @@ build cmake_object_order_depends_target_flappy_sanyok: phony || .
 build CMakeFiles/flappy_sanyok.dir/main.cpp.o: CXX_COMPILER__flappy_sanyok_unscanned_Debug /Users/hikipau/CLionProjects/flappy_sanyok/main.cpp || cmake_object_order_depends_target_flappy_sanyok
   DEP_FILE = CMakeFiles/flappy_sanyok.dir/main.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
-  INCLUDES = -isystem /opt/homebrew/include
+  INCLUDES = -I/Users/hikipau/CLionProjects/flappy_sanyok/../SFML-3.0.0/include -isystem /opt/homebrew/include
   OBJECT_DIR = CMakeFiles/flappy_sanyok.dir
   OBJECT_FILE_DIR = CMakeFiles/flappy_sanyok.dir
 
 build CMakeFiles/flappy_sanyok.dir/StateMachine.cpp.o: CXX_COMPILER__flappy_sanyok_unscanned_Debug /Users/hikipau/CLionProjects/flappy_sanyok/StateMachine.cpp || cmake_object_order_depends_target_flappy_sanyok
   DEP_FILE = CMakeFiles/flappy_sanyok.dir/StateMachine.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
-  INCLUDES = -isystem /opt/homebrew/include
+  INCLUDES = -I/Users/hikipau/CLionProjects/flappy_sanyok/../SFML-3.0.0/include -isystem /opt/homebrew/include
   OBJECT_DIR = CMakeFiles/flappy_sanyok.dir
   OBJECT_FILE_DIR = CMakeFiles/flappy_sanyok.dir
 
 build CMakeFiles/flappy_sanyok.dir/AssetManager.cpp.o: CXX_COMPILER__flappy_sanyok_unscanned_Debug /Users/hikipau/CLionProjects/flappy_sanyok/AssetManager.cpp || cmake_object_order_depends_target_flappy_sanyok
   DEP_FILE = CMakeFiles/flappy_sanyok.dir/AssetManager.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
-  INCLUDES = -isystem /opt/homebrew/include
+  INCLUDES = -I/Users/hikipau/CLionProjects/flappy_sanyok/../SFML-3.0.0/include -isystem /opt/homebrew/include
   OBJECT_DIR = CMakeFiles/flappy_sanyok.dir
   OBJECT_FILE_DIR = CMakeFiles/flappy_sanyok.dir
 
 build CMakeFiles/flappy_sanyok.dir/InputManager.cpp.o: CXX_COMPILER__flappy_sanyok_unscanned_Debug /Users/hikipau/CLionProjects/flappy_sanyok/InputManager.cpp || cmake_object_order_depends_target_flappy_sanyok
   DEP_FILE = CMakeFiles/flappy_sanyok.dir/InputManager.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
-  INCLUDES = -isystem /opt/homebrew/include
+  INCLUDES = -I/Users/hikipau/CLionProjects/flappy_sanyok/../SFML-3.0.0/include -isystem /opt/homebrew/include
   OBJECT_DIR = CMakeFiles/flappy_sanyok.dir
   OBJECT_FILE_DIR = CMakeFiles/flappy_sanyok.dir
 
 build CMakeFiles/flappy_sanyok.dir/Game.cpp.o: CXX_COMPILER__flappy_sanyok_unscanned_Debug /Users/hikipau/CLionProjects/flappy_sanyok/Game.cpp || cmake_object_order_depends_target_flappy_sanyok
   DEP_FILE = CMakeFiles/flappy_sanyok.dir/Game.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
-  INCLUDES = -isystem /opt/homebrew/include
+  INCLUDES = -I/Users/hikipau/CLionProjects/flappy_sanyok/../SFML-3.0.0/include -isystem /opt/homebrew/include
   OBJECT_DIR = CMakeFiles/flappy_sanyok.dir
   OBJECT_FILE_DIR = CMakeFiles/flappy_sanyok.dir
 
 build CMakeFiles/flappy_sanyok.dir/SplashState.cpp.o: CXX_COMPILER__flappy_sanyok_unscanned_Debug /Users/hikipau/CLionProjects/flappy_sanyok/SplashState.cpp || cmake_object_order_depends_target_flappy_sanyok
   DEP_FILE = CMakeFiles/flappy_sanyok.dir/SplashState.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
-  INCLUDES = -isystem /opt/homebrew/include
+  INCLUDES = -I/Users/hikipau/CLionProjects/flappy_sanyok/../SFML-3.0.0/include -isystem /opt/homebrew/include
   OBJECT_DIR = CMakeFiles/flappy_sanyok.dir
   OBJECT_FILE_DIR = CMakeFiles/flappy_sanyok.dir
 
 build CMakeFiles/flappy_sanyok.dir/MainMenuState.cpp.o: CXX_COMPILER__flappy_sanyok_unscanned_Debug /Users/hikipau/CLionProjects/flappy_sanyok/MainMenuState.cpp || cmake_object_order_depends_target_flappy_sanyok
   DEP_FILE = CMakeFiles/flappy_sanyok.dir/MainMenuState.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
-  INCLUDES = -isystem /opt/homebrew/include
+  INCLUDES = -I/Users/hikipau/CLionProjects/flappy_sanyok/../SFML-3.0.0/include -isystem /opt/homebrew/include
   OBJECT_DIR = CMakeFiles/flappy_sanyok.dir
   OBJECT_FILE_DIR = CMakeFiles/flappy_sanyok.dir
 
 build CMakeFiles/flappy_sanyok.dir/GameState.cpp.o: CXX_COMPILER__flappy_sanyok_unscanned_Debug /Users/hikipau/CLionProjects/flappy_sanyok/GameState.cpp || cmake_object_order_depends_target_flappy_sanyok
   DEP_FILE = CMakeFiles/flappy_sanyok.dir/GameState.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
-  INCLUDES = -isystem /opt/homebrew/include
+  INCLUDES = -I/Users/hikipau/CLionProjects/flappy_sanyok/../SFML-3.0.0/include -isystem /opt/homebrew/include
   OBJECT_DIR = CMakeFiles/flappy_sanyok.dir
   OBJECT_FILE_DIR = CMakeFiles/flappy_sanyok.dir
 
 build CMakeFiles/flappy_sanyok.dir/GameOverState.cpp.o: CXX_COMPILER__flappy_sanyok_unscanned_Debug /Users/hikipau/CLionProjects/flappy_sanyok/GameOverState.cpp || cmake_object_order_depends_target_flappy_sanyok
   DEP_FILE = CMakeFiles/flappy_sanyok.dir/GameOverState.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
-  INCLUDES = -isystem /opt/homebrew/include
+  INCLUDES = -I/Users/hikipau/CLionProjects/flappy_sanyok/../SFML-3.0.0/include -isystem /opt/homebrew/include
   OBJECT_DIR = CMakeFiles/flappy_sanyok.dir
   OBJECT_FILE_DIR = CMakeFiles/flappy_sanyok.dir
 
 build CMakeFiles/flappy_sanyok.dir/Pipe.cpp.o: CXX_COMPILER__flappy_sanyok_unscanned_Debug /Users/hikipau/CLionProjects/flappy_sanyok/Pipe.cpp || cmake_object_order_depends_target_flappy_sanyok
   DEP_FILE = CMakeFiles/flappy_sanyok.dir/Pipe.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
-  INCLUDES = -isystem /opt/homebrew/include
+  INCLUDES = -I/Users/hikipau/CLionProjects/flappy_sanyok/../SFML-3.0.0/include -isystem /opt/homebrew/include
   OBJECT_DIR = CMakeFiles/flappy_sanyok.dir
   OBJECT_FILE_DIR = CMakeFiles/flappy_sanyok.dir
 
 build CMakeFiles/flappy_sanyok.dir/Land.cpp.o: CXX_COMPILER__flappy_sanyok_unscanned_Debug /Users/hikipau/CLionProjects/flappy_sanyok/Land.cpp || cmake_object_order_depends_target_flappy_sanyok
   DEP_FILE = CMakeFiles/flappy_sanyok.dir/Land.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
-  INCLUDES = -isystem /opt/homebrew/include
+  INCLUDES = -I/Users/hikipau/CLionProjects/flappy_sanyok/../SFML-3.0.0/include -isystem /opt/homebrew/include
   OBJECT_DIR = CMakeFiles/flappy_sanyok.dir
   OBJECT_FILE_DIR = CMakeFiles/flappy_sanyok.dir
 
 build CMakeFiles/flappy_sanyok.dir/Bird.cpp.o: CXX_COMPILER__flappy_sanyok_unscanned_Debug /Users/hikipau/CLionProjects/flappy_sanyok/Bird.cpp || cmake_object_order_depends_target_flappy_sanyok
   DEP_FILE = CMakeFiles/flappy_sanyok.dir/Bird.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
-  INCLUDES = -isystem /opt/homebrew/include
+  INCLUDES = -I/Users/hikipau/CLionProjects/flappy_sanyok/../SFML-3.0.0/include -isystem /opt/homebrew/include
   OBJECT_DIR = CMakeFiles/flappy_sanyok.dir
   OBJECT_FILE_DIR = CMakeFiles/flappy_sanyok.dir
 
 build CMakeFiles/flappy_sanyok.dir/Collision.cpp.o: CXX_COMPILER__flappy_sanyok_unscanned_Debug /Users/hikipau/CLionProjects/flappy_sanyok/Collision.cpp || cmake_object_order_depends_target_flappy_sanyok
   DEP_FILE = CMakeFiles/flappy_sanyok.dir/Collision.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
-  INCLUDES = -isystem /opt/homebrew/include
+  INCLUDES = -I/Users/hikipau/CLionProjects/flappy_sanyok/../SFML-3.0.0/include -isystem /opt/homebrew/include
   OBJECT_DIR = CMakeFiles/flappy_sanyok.dir
   OBJECT_FILE_DIR = CMakeFiles/flappy_sanyok.dir
 
 build CMakeFiles/flappy_sanyok.dir/Flash.cpp.o: CXX_COMPILER__flappy_sanyok_unscanned_Debug /Users/hikipau/CLionProjects/flappy_sanyok/Flash.cpp || cmake_object_order_depends_target_flappy_sanyok
   DEP_FILE = CMakeFiles/flappy_sanyok.dir/Flash.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
-  INCLUDES = -isystem /opt/homebrew/include
+  INCLUDES = -I/Users/hikipau/CLionProjects/flappy_sanyok/../SFML-3.0.0/include -isystem /opt/homebrew/include
   OBJECT_DIR = CMakeFiles/flappy_sanyok.dir
   OBJECT_FILE_DIR = CMakeFiles/flappy_sanyok.dir
 
 build CMakeFiles/flappy_sanyok.dir/HUD.cpp.o: CXX_COMPILER__flappy_sanyok_unscanned_Debug /Users/hikipau/CLionProjects/flappy_sanyok/HUD.cpp || cmake_object_order_depends_target_flappy_sanyok
   DEP_FILE = CMakeFiles/flappy_sanyok.dir/HUD.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
-  INCLUDES = -isystem /opt/homebrew/include
+  INCLUDES = -I/Users/hikipau/CLionProjects/flappy_sanyok/../SFML-3.0.0/include -isystem /opt/homebrew/include
   OBJECT_DIR = CMakeFiles/flappy_sanyok.dir
   OBJECT_FILE_DIR = CMakeFiles/flappy_sanyok.dir
 
@@ -164,8 +164,8 @@ build CMakeFiles/flappy_sanyok.dir/HUD.cpp.o: CXX_COMPILER__flappy_sanyok_unscan
 
 build flappy_sanyok: CXX_EXECUTABLE_LINKER__flappy_sanyok_Debug CMakeFiles/flappy_sanyok.dir/main.cpp.o CMakeFiles/flappy_sanyok.dir/StateMachine.cpp.o CMakeFiles/flappy_sanyok.dir/AssetManager.cpp.o CMakeFiles/flappy_sanyok.dir/InputManager.cpp.o CMakeFiles/flappy_sanyok.dir/Game.cpp.o CMakeFiles/flappy_sanyok.dir/SplashState.cpp.o CMakeFiles/flappy_sanyok.dir/MainMenuState.cpp.o CMakeFiles/flappy_sanyok.dir/GameState.cpp.o CMakeFiles/flappy_sanyok.dir/GameOverState.cpp.o CMakeFiles/flappy_sanyok.dir/Pipe.cpp.o CMakeFiles/flappy_sanyok.dir/Land.cpp.o CMakeFiles/flappy_sanyok.dir/Bird.cpp.o CMakeFiles/flappy_sanyok.dir/Collision.cpp.o CMakeFiles/flappy_sanyok.dir/Flash.cpp.o CMakeFiles/flappy_sanyok.dir/HUD.cpp.o | /opt/homebrew/lib/libsfml-graphics.2.6.2.dylib /opt/homebrew/lib/libsfml-window.2.6.2.dylib /opt/homebrew/lib/libsfml-audio.2.6.2.dylib /opt/homebrew/lib/libsfml-system.2.6.2.dylib
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
-  LINK_LIBRARIES = -Wl,-rpath,/opt/homebrew/lib  /opt/homebrew/lib/libsfml-graphics.2.6.2.dylib  /opt/homebrew/lib/libsfml-window.2.6.2.dylib  /opt/homebrew/lib/libsfml-audio.2.6.2.dylib  /opt/homebrew/lib/libsfml-system.2.6.2.dylib
-  LINK_PATH = -L/opt/homebrew/lib
+  LINK_LIBRARIES = -Wl,-rpath,/Users/hikipau/CLionProjects/flappy_sanyok/../SFML-3.0.0/lib -Wl,-rpath,/opt/homebrew/lib  /opt/homebrew/lib/libsfml-graphics.2.6.2.dylib  /opt/homebrew/lib/libsfml-window.2.6.2.dylib  /opt/homebrew/lib/libsfml-audio.2.6.2.dylib  /opt/homebrew/lib/libsfml-system.2.6.2.dylib
+  LINK_PATH = -L/Users/hikipau/CLionProjects/flappy_sanyok/../SFML-3.0.0/lib
   OBJECT_DIR = CMakeFiles/flappy_sanyok.dir
   POST_BUILD = :
   PRE_LINK = :
